@@ -2,7 +2,7 @@
 
 My name is **Andrew Kim**.
 
-I am a graduating senior and going to Rutgers New Brunswick in Fall 2022.
+I am a graduating senior and going to attend Rutgers New Brunswick in Fall 2022.
 
 ![githubpicture](https://user-images.githubusercontent.com/105865101/172173568-78f913fb-0bd8-4c52-9d2b-f8157a420007.jpg)
 
