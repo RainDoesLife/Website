@@ -17,3 +17,4 @@ My hobbies include **Golf**, **Web Development**, and **Video Editing**.
 
 An award I have won is my **Second Degree Black Belt in Taekwondo**, a form of martial arts.
 
+I succesfully made a website for online ordering and delivery for a deli in New York City.
