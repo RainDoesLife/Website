@@ -11,7 +11,7 @@ I am a graduating senior and going to Rutgers New Brunswick in Fall 2022.
 
 I have a **3.9 GPA**.
 
-I have a **1420 SAT score**.
+I have a **SAT score of 1420**.
 
 My hobbies include **Golf**, **Web Development**, and **Video Editing**.
 
