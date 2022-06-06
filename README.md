@@ -2,12 +2,21 @@
 
 My name is **Andrew Kim**.
 
-My Facebook username is **Fyre55**. My Twitter is **@RainDoesLife**. My Discord is **RainDoesLife#1474**. 
-
 I am a graduating senior and going to Rutgers New Brunswick in Fall 2022.
 
 ![githubpicture](https://user-images.githubusercontent.com/105865101/172173568-78f913fb-0bd8-4c52-9d2b-f8157a420007.jpg)
 
+
+# Social Media Information
+
+My Facebook username is **Fyre55**. 
+
+My Twitter is **@RainDoesLife**. 
+
+My Discord is **RainDoesLife#1474**. 
+
+
+# Brag Sheet
 
 I have a **3.9 GPA**.
 
