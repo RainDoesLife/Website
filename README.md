@@ -11,9 +11,9 @@ I am a graduating senior and going to attend Rutgers New Brunswick in Fall 2022.
 
 My Facebook username is **Fyre55**. 
 
-My Twitter is **@RainDoesLife**. 
+My Twitter is **@Rainfa11_**. 
 
-My Discord is **RainDoesLife#1474**. 
+My Discord is **Rainfall#1474**. 
 
 
 # Brag Sheet
